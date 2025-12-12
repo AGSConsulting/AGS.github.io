@@ -3,32 +3,32 @@
     {
       "Name": "Mach Industries",
       "RMID": "10380404",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     },
     {
       "Name": "OneWeb",
       "RMID": "9769014",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     },
     {
       "Name": "RevelXP (PRM)",
       "RMID": "9633437",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     },
     {
       "Name": "Rocktop (PRM)",
       "RMID": "9911363",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     },
     {
       "Name": "SPE",
       "RMID": "10448484",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     },
     {
       "Name": "TeamDynamix",
       "RMID": "9768724",
-      "SOW_Path": "SomePath/Caravel_SOW.docx"
+      "SOW_Path": "SomePath/SOW.docx"
     }
   ]
 }
